@@ -14,8 +14,8 @@ pump and CGM can remain attached.
 * [Compatible Phone](…/Getting-Started/iphone.md).
 * [Compatible CGM](…/Getting-Started/cgm.md).
 * [Compatible Insulin Pump](…/Getting-Started/pump.md).
-* Free GitHub account (Instructions [here](https://loopkit.github.io/loopdocs/browser/secrets/#new-github-account)).
-* Paid Apple Developer account (Instructions [here](https://loopkit.github.io/loopdocs/build/apple-developer/#switching-from-free-to-paid-memberships)).
+* [Free GitHub account](https://loopkit.github.io/loopdocs/browser/secrets/#new-github-account).
+* [Paid Apple Developer account](https://loopkit.github.io/loopdocs/build/apple-developer/#switching-from-free-to-paid-memberships).
 
 :::{important}
 _When building Trio with GitHub, you must have a paid Apple Developer account._
@@ -35,8 +35,8 @@ pump and CGM can remain attached.
 * [Compatible Phone](…/Getting-Started/iphone.md).
 * [Compatible CGM](…/Getting-Started/cgm.md).
 * [Compatible Insulin Pump](…/Getting-Started/pump.md).
-* [Free GitHub account](https://loopkit.github.io/loopdocs/browser/secrets/#new-github-account)).
-* [Apple Developer account](https://loopkit.github.io/loopdocs/build/apple-developer/#switching-from-free-to-paid-memberships)).
+* [Free GitHub account](https://loopkit.github.io/loopdocs/browser/secrets/#new-github-account).
+* [Apple Developer account](https://loopkit.github.io/loopdocs/build/apple-developer/#switching-from-free-to-paid-memberships).
 
 **Additional Requirements**
 * [Compatible computer](https://loopkit.github.io/loopdocs/build/computer/).
