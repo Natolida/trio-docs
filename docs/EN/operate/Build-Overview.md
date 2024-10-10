@@ -21,7 +21,7 @@ pump and CGM can remain attached.
 _When building Trio with GitHub, you must have a paid Apple Developer account._
 :::  
 
-To start building Trio with GitHub, visit [Build Trio with GitHub](/GH-Build.md).  
+To start building Trio with GitHub, visit [Build Trio with GitHub](.../GH-Build.md).  
 
 ## Build Trio with Xcode (i.e., “Mac Build”)
 The complete requirements for building Trio using Xcode are summarised below.
@@ -46,7 +46,7 @@ pump and CGM can remain attached.
 _When building Trio with Xcode, you must rebuild Trio every seven days if you choose to use a free Apple Developer account._
 :::  
 
-To start building Trio with Xcode, visit [Build Trio with Xcode](/XC-Build.md).   
+To start building Trio with Xcode, visit [Build Trio with Xcode](.../XC-Build.md).   
 
 
 
