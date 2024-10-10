@@ -83,9 +83,9 @@ CGMs <./settings/devices/cgm.md>
 
 Building Trio - Overview <./operate/Build Overview.md>
 
-Build Instructions <./operate/build.md>
+Building Trio with GitHub <./operate/GH Build.md>
 
-Customizations <./operate/customize.md>
+Building Trio with Xcode <./operate/XC Build.md>
 
 ```
 
