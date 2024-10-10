@@ -81,11 +81,11 @@ CGMs <./settings/devices/cgm.md>
 ```{toctree}
 :caption: Build/Update Trio
 
-Building Trio - Overview <./operate/Build Overview.md>
+Building Trio - Overview <./operate/Build-Overview.md>
 
-Building Trio with GitHub <./operate/GH Build.md>
+Building Trio with GitHub <./operate/GH-Build.md>
 
-Building Trio with Xcode <./operate/XC Build.md>
+Building Trio with Xcode <./operate/XC-Build.md>
 
 ```
 
