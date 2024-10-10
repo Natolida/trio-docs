@@ -81,6 +81,8 @@ CGMs <./settings/devices/cgm.md>
 ```{toctree}
 :caption: Build/Update Trio
 
+Building Trio - Overview <./operate/Build Overview.md>
+
 Build Instructions <./operate/build.md>
 
 Customizations <./operate/customize.md>
